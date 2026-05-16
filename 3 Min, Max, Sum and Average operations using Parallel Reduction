@@ -62,3 +62,6 @@ int main() {
   sum_reduction(arr, n); 
   average_reduction(arr, n); 
 } 
+
+(g++ -fopenmp program.cpp -o program
+./program)
