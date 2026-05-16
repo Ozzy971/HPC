@@ -123,3 +123,8 @@ int main()
 
     return 0;
 }
+
+(if run on ubuntu/linuc use g++ compiler
+use below commands
+g++ -fopenmp prallel_bfs.cpp -o parallel_bfs
+./parallel_bfs)
